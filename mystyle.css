@@ -21,11 +21,7 @@ p1 {
 }
 
 .personalwebsitehomepage {
-<<<<<<< HEAD
-  background-image: url("personalwebsitecover.png");
-=======
   background-image: image("personalwebsitecover.png");
->>>>>>> cff651b (test 1)
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
