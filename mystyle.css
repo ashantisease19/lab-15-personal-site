@@ -21,7 +21,7 @@ p1 {
 }
 
 .personalwebsitehomepage {
-  background-image: url("personalwebsitecover.png");
+  background-image: image("personalwebsitecover.png");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
